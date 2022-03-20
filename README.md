@@ -1,5 +1,15 @@
-for install : 
+# Cryptomoney price gey
 
-npm i install
+## Packages
 
-and replace all balise "LINK" in code to your crypto link.
+- discord.js
+- node-fetch
+- axios
+
+
+## Theming
+
+This bot allows you to display the increasing or decreasing price of a cryptomonaie in real time!
+
+You can modify it as you see fit.
+
