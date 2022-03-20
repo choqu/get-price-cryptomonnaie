@@ -7,7 +7,7 @@
 - axios
 
 
-## Theming
+## Theme
 
 This bot allows you to display the increasing or decreasing price of a cryptomonaie in real time!
 
