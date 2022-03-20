@@ -1,2 +1,5 @@
-# get-price-cryptomonnaie
-Get a price of one crypto !
+for install : 
+
+npm i install
+
+and replace all balise "LINK" in code to your crypto link.
